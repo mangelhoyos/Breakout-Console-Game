@@ -1,0 +1,9 @@
+﻿  BreakoutSource.cpp
+C:\Users\mysha\source\repos\Breakout\Breakout\BreakoutSource.cpp(74,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\mysha\source\repos\Breakout\Breakout\BreakoutSource.cpp(77,33): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\mysha\source\repos\Breakout\Breakout\BreakoutSource.cpp(153,30): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\mysha\source\repos\Breakout\Breakout\BreakoutSource.cpp(153,22): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\mysha\source\repos\Breakout\Breakout\BreakoutSource.cpp(153,14): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\mysha\source\repos\Breakout\Breakout\BreakoutSource.cpp(157,57): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\mysha\source\repos\Breakout\Breakout\BreakoutSource.cpp(157,17): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  Breakout.vcxproj -> C:\Users\mysha\source\repos\Breakout\Debug\Breakout.exe
